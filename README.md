@@ -35,7 +35,7 @@ This code snippet is an implementation of the quicksort algorithm in assembly la
    - Finally, an EXIT command is used to halt the program execution.
 
 Overall, this code implements a basic quicksort algorithm in assembly language, dividing and conquering the array until it is sorted.
-
+![Alt text](image-1.png)
 ### soal 2 - IntegerSquareRoot
 toozihate code 
 ### start
@@ -48,3 +48,4 @@ toozihate code
  * ba estefade az blt agar manfi shod az loop kharej mishavad
  ### end of loop 
  * meghdar a1 ra yeki kam karde ta javabe dorost be dast byad be dalil een ke dar marhale akhar addad manfi mishavad 
+ ![Alt text](image-2.png)
